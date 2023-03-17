@@ -10,7 +10,7 @@ int main(void)
 
 	for (alpha = 0; alpha <= 10; alpha++)
 	{
-		printf("%d\n",alpha);
+		printf("%d", alpha);
 	};
 	return (0);
 }
