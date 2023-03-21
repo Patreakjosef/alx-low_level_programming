@@ -2,7 +2,7 @@
 
 /**
  * print_sign - checks if acharacter is lowercase or upper case
- * @c: the character
+ * @n: the number of the sign to be printed
  * Return: 1 if letter is alphabet, 0 if not
  */
 int print_sign(int n)
