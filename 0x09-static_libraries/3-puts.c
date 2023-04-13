@@ -3,7 +3,7 @@ void _puts(char *str)
 #include<stdio.h>
 /**
  * main - Entry point
- * _puts - putting programming in the next generation
+ * _puts -  for string programming
  * Return: Always 0 (Success)
  */
 int main(void)
